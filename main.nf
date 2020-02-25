@@ -2,7 +2,7 @@
 
 // MegaQC- practice for running nextflow in a singularity container
 
-nextflow.preview.dsl=2
+nextflow.preview.dsl = 2
 
 
 
